@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.venv/
+
+# Build outputs
+.buildozer/
+bin/
+dist/
+*.apk
+*.aab
+
+# OS junk
+.DS_Store
+Thumbs.db
