@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridConsole</string>
+    <string name="wallpaper_name">GridConsole Live Wallpaper</string>
+    <string name="settings_name">GridConsole Settings</string>
+</resources>
