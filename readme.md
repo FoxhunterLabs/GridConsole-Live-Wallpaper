@@ -1,6 +1,7 @@
-<img width="1916" height="1016" alt="image" src="https://github.com/user-attachments/assets/16d939fc-0914-4cdb-9749-f69b5b01aec1" />
-
 # GridConsole Live Wallpaper
+
+<img width="1916" height="1016" alt="image" src="https://github.com/user-attachments/assets/2693543d-a18f-432c-a798-29dfbaa9ead1" />
+
 
 GridConsole is a generative Android live wallpaper that looks like a monochrome “AI console” grid:
 - crisp white HUD panels
